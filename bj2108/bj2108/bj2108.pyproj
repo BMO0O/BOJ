@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>42d4147e-301f-402c-9bfe-0a95a6722270</ProjectGuid>
+    <ProjectGuid>120313d9-5e32-4670-8900-99fe8616730d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>bj1929.py</StartupFile>
+    <StartupFile>bj2108.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>bj1929</Name>
-    <RootNamespace>bj1929</RootNamespace>
+    <Name>bj2108</Name>
+    <RootNamespace>bj2108</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="bj1929.py" />
+    <Compile Include="bj2108.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
